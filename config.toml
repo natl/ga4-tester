@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "localhost:8000"
+baseurl = "https://natl.github.io/ga4-tester/"
 languageCode = "en"
 
 title = "My Test GA Site"
