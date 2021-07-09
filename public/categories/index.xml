@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My Test GA Site</title>
-    <link>localhost:8000/categories/</link>
+    <link>https://natl.github.io/ga4-tester/categories/</link>
     <description>Recent content in Categories on My Test GA Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="localhost:8000/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://natl.github.io/ga4-tester/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>localhost:8000/categories/development/</link>
+      <link>https://natl.github.io/ga4-tester/categories/development/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost:8000/categories/development/</guid>
+      <guid>https://natl.github.io/ga4-tester/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>localhost:8000/categories/hugo/</link>
+      <link>https://natl.github.io/ga4-tester/categories/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost:8000/categories/hugo/</guid>
+      <guid>https://natl.github.io/ga4-tester/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>localhost:8000/categories/golang/</link>
+      <link>https://natl.github.io/ga4-tester/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost:8000/categories/golang/</guid>
+      <guid>https://natl.github.io/ga4-tester/categories/golang/</guid>
       <description></description>
     </item>
     

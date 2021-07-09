@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost:8000/posts/creating-a-new-theme/</loc>
+    <loc>https://natl.github.io/ga4-tester/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/posts/migrate-from-jekyll/</loc>
+    <loc>https://natl.github.io/ga4-tester/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/portfolio/dera/</loc>
+    <loc>https://natl.github.io/ga4-tester/portfolio/dera/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/</loc>
+    <loc>https://natl.github.io/ga4-tester/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/portfolio/</loc>
+    <loc>https://natl.github.io/ga4-tester/portfolio/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/portfolio/hyde-hyde/</loc>
+    <loc>https://natl.github.io/ga4-tester/portfolio/hyde-hyde/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/portfolio/laramod/</loc>
+    <loc>https://natl.github.io/ga4-tester/portfolio/laramod/</loc>
     <lastmod>2018-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/categories/</loc>
+    <loc>https://natl.github.io/ga4-tester/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/css/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/css/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/categories/development/</loc>
+    <loc>https://natl.github.io/ga4-tester/categories/development/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/html/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/html/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/hugo/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/categories/hugo/</loc>
+    <loc>https://natl.github.io/ga4-tester/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/posts/</loc>
+    <loc>https://natl.github.io/ga4-tester/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/theme/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/about/</loc>
+    <loc>https://natl.github.io/ga4-tester/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/posts/goisforlovers/</loc>
+    <loc>https://natl.github.io/ga4-tester/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/development/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/posts/hugoisforlovers/</loc>
+    <loc>https://natl.github.io/ga4-tester/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/go/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/golang/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/categories/golang/</loc>
+    <loc>https://natl.github.io/ga4-tester/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/templates/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/themes/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/jekyll/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:8000/tags/migration/</loc>
+    <loc>https://natl.github.io/ga4-tester/tags/migration/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>
